@@ -1,0 +1,18 @@
+.size{
+    width: 25%;
+}
+
+.position{
+    position: inherit;
+
+}
+
+.scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+    display: inline-block;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+ 
